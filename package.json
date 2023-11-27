@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name":"Arekhandia Harry",
+		"email": "harry_p30@yahoo.com",
+		"url": "https://linkedin.com/in/aigbomian-harry"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
