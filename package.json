@@ -6,6 +6,7 @@
 		"url": "https://linkedin.com/in/aigbomian-harry"
 	},
 	"description": "An NodeJS backend development api course - Learning how to manage NPM packages",
+	"keywords": ["backend","freecodecamp", "api","NodeJS", "JavaScript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
