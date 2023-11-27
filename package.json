@@ -5,6 +5,7 @@
 		"email": "harry_p30@yahoo.com",
 		"url": "https://linkedin.com/in/aigbomian-harry"
 	},
+	"description": "An NodeJS backend development api course - Learning how to manage NPM packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
